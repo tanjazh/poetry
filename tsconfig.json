@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    /* Visit https://aka.ms/tsconfig to read more about this file */
+    "target": "es2022",
+    "lib": ["es2022"],
+    "module": "commonjs",
+    "strict": true
+  },
+  "include": ["src", "tutorial/types.ts", "tutorial/loops.ts", "tutorial/async.ts"]
+}
