@@ -41,4 +41,3 @@ const cyprusCarRental: CarRental = {
         licensePlate: "FOO000"
     }]
 }
- 
